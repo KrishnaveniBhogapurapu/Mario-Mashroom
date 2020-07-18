@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  text-align: center;
+  background-color: white;
+  font-family: "Nunito", sans-serif;
+}
+
+.board {
+  background: white;
+  border: solid black;
+  position: absolute;
+  margin: auto;
+}
+
+.game {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  position: absolute;
+  border-radius: 10px;
+}
+
+.mario {
+  background-image: url("/mario.png");
+}
+
+.mushroom {
+  background-image: url("/mushroom.png");
+}
