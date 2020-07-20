@@ -1,3 +1,6 @@
+Mario-Mashroom is developed using ReactJs
+To start with the game, all you have you have to do is select height and width of the game border and the player has to collect all the Mushrooms.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
