@@ -57,11 +57,3 @@ body {
   position: absolute;
   border-radius: 10px;
 }
-
-.mario {
-  background-image: url("/mario.png");
-}
-
-.mushroom {
-  background-image: url("/mushroom.png");
-}

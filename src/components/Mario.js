@@ -99,6 +99,7 @@ class Mario extends Component {
       width: this.boardConfig.cellWidth + "px",
       marginTop: this.state.y_axis * this.boardConfig.cellHeight + "px",
       marginLeft: this.state.x_axis * this.boardConfig.cellWidth + "px",
+      backgroundImage: "url('/mario.png')",
     };
     return (
       <div>
