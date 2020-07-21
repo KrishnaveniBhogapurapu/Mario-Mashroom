@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Mario-Mashroom/precache-manifest.16624851b300307f0794329eb3e392ed.js"
+  "/Mario-Mashroom/precache-manifest.9e8b51dd2dd5d8e9b83b2703126354c0.js"
 );
 
 self.addEventListener('message', (event) => {

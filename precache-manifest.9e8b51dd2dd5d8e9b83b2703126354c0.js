@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2c0ed822d42faf4e31924a66d10ce7c3",
+    "revision": "e49d830529de1f1341d74059d8a3768d",
     "url": "/Mario-Mashroom/index.html"
   },
   {
-    "revision": "c55e3ffc0321405d56f0",
-    "url": "/Mario-Mashroom/static/css/main.686d6d08.chunk.css"
+    "revision": "bf3f2c743cf84f654222",
+    "url": "/Mario-Mashroom/static/css/main.3743653f.chunk.css"
   },
   {
     "revision": "30842fcd86235d3b8b0c",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Mario-Mashroom/static/js/2.6c3d75c6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c55e3ffc0321405d56f0",
-    "url": "/Mario-Mashroom/static/js/main.4271dc1d.chunk.js"
+    "revision": "bf3f2c743cf84f654222",
+    "url": "/Mario-Mashroom/static/js/main.1875b320.chunk.js"
   },
   {
     "revision": "d0e640cc3e9a65aaf616",
