@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Mario-Mashroom/static/css/main.3743653f.chunk.css",
-    "main.js": "/Mario-Mashroom/static/js/main.1875b320.chunk.js",
-    "main.js.map": "/Mario-Mashroom/static/js/main.1875b320.chunk.js.map",
+    "main.css": "/Mario-Mashroom/static/css/main.5bb1d570.chunk.css",
+    "main.js": "/Mario-Mashroom/static/js/main.2c79e4f6.chunk.js",
+    "main.js.map": "/Mario-Mashroom/static/js/main.2c79e4f6.chunk.js.map",
     "runtime-main.js": "/Mario-Mashroom/static/js/runtime-main.1452c538.js",
     "runtime-main.js.map": "/Mario-Mashroom/static/js/runtime-main.1452c538.js.map",
     "static/js/2.6c3d75c6.chunk.js": "/Mario-Mashroom/static/js/2.6c3d75c6.chunk.js",
     "static/js/2.6c3d75c6.chunk.js.map": "/Mario-Mashroom/static/js/2.6c3d75c6.chunk.js.map",
     "index.html": "/Mario-Mashroom/index.html",
-    "precache-manifest.9e8b51dd2dd5d8e9b83b2703126354c0.js": "/Mario-Mashroom/precache-manifest.9e8b51dd2dd5d8e9b83b2703126354c0.js",
+    "precache-manifest.51c32fef8f29a48bbdf375e540691475.js": "/Mario-Mashroom/precache-manifest.51c32fef8f29a48bbdf375e540691475.js",
     "service-worker.js": "/Mario-Mashroom/service-worker.js",
-    "static/css/main.3743653f.chunk.css.map": "/Mario-Mashroom/static/css/main.3743653f.chunk.css.map",
+    "static/css/main.5bb1d570.chunk.css.map": "/Mario-Mashroom/static/css/main.5bb1d570.chunk.css.map",
     "static/js/2.6c3d75c6.chunk.js.LICENSE.txt": "/Mario-Mashroom/static/js/2.6c3d75c6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1452c538.js",
     "static/js/2.6c3d75c6.chunk.js",
-    "static/css/main.3743653f.chunk.css",
-    "static/js/main.1875b320.chunk.js"
+    "static/css/main.5bb1d570.chunk.css",
+    "static/js/main.2c79e4f6.chunk.js"
   ]
 }
