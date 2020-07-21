@@ -17,7 +17,7 @@ class Mushroom extends Component {
       height: this.state.cellHeight + "px",
       marginLeft: this.state.x * this.state.cellWidth + "px",
       marginTop: this.state.y * this.state.cellHeight + "px",
-      backgroundImage: "url('./mushroom.png')",
+      backgroundImage: "url('/Mario-Mashroom/mushroom.png')",
     };
     return (
       <div>
